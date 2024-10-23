@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0; /* Added to reset default padding as well */
+  box-sizing: border-box; /* Added to ensure consistent box sizing */
+}
+
+body {
+  height: 100vh;
+  margin: 0; /* Added to ensure no default margin */
+ background-color: black;
+ font-family: 'Poppins', sans-serif; ;
+}
